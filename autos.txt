@@ -1,0 +1,44 @@
+ <hr>
+         <div class="Nivus">
+         
+     
+           <p >Nueva volkswagen </p>
+           <img src="https://www.megautos.com/wp-content/uploads/2020/06/vw-nivus-perfil.jpg"
+     width="868"
+     height="347">
+           
+           <p > </p>
+           <blockquote>
+             <p> </p> 
+           <p><a href="">Versiones</a></p>
+               <hr>
+              </div>               
+
+                <p>Hola. ¿Queréis ver las Novedades de <a href="">  </a> ?</p>
+            <audio controls>
+              <source src="" type="audio/mp3">
+          </audio>
+          <IMG SRC="IMAGENES/ " >
+      
+
+
+
+
+          <a href="">  <img src="IMAGENES/INSTAGRAM IMAGEN.png" border="0"></a>
+<a href="">  <img src="IMAGENES/SPOTIFY IMAGEN.png" border="0"></a>
+<a href="">  <img src="IMAGENES/YOUTUBE IMAGEN.png" border="0"></a>
+<a href="">  <img src="IMAGENES/TWITER IMAGEN.png" border="0"></a>
+<a href="">  <img src="IMAGENES/FACEBOOK IMAGEN.png" border="0"></a>
+<a href="">  <img src="IMAGENES/SOUND COULD.png" border="0"></a>
+<a href="">  <img src="IMAGENES/SNAPCHAT IMAGEN.png" border="0"></a>
+<a href="">  <img src="IMAGENES/TWICH IMAGEN.png" border="0"></a>
+
+
+<a href="">  <img src="IMAGENES/INSTAGRAM IMAGEN.png" border="0"></a> <a href="">  <img src="IMAGENES/SPOTIFY IMAGEN.png" border="0"></a> <a href="">  <img src="IMAGENES/YOUTUBE IMAGEN.png" border="0"></a> <a href="">  <img src="IMAGENES/TWITER IMAGEN.png" border="0"></a> <a href="">  <img src="IMAGENES/FACEBOOK IMAGEN.png" border="0"></a> <a href="">  <img src="IMAGENES/SOUND COULD.png" border="0"></a>
+
+
+<video src= "video/fondo animado.mp4"autoplay loop poster="logo.png"> </video>
+
+
+ <input type ="radio" name = "filtro" id = "nicovalloranidj" >
+             <label for ="todos">NICO VALLORANI DJ</label>
